@@ -48,3 +48,4 @@ De maneira geral é fácil olhar para cada requisito e enxergar uma maneira simp
   - Modelar melhor os domínio de acordo com os objetivos
 - Um painel administrativo mais elegante
 - Utilizaria NextJS para o front-end do usuário final.
+- Utilizaria GraphQL no front, facilitaria a buscar somente os dados que preciso em cada tela, tornaria o back-end mais flexível com os field resolvers e poderia ainda passar os campos selecionados como opção para os repositories e otimizar a carga de busca no banco de dados
